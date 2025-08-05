@@ -29,10 +29,10 @@ Media transcoding is the process of converting multimedia files (audio/video) fr
 
 ## 📷 Demo
 
-> Add these after running your app and capturing outputs
-
-![Sample Console UI](assets/demo_console.png)
-![Output Files](assets/output_files.png)
+Sample Console UI
+![ image_alt ](https://github.com/bhanumusham/Multi-Format-Video-Converter-Audio-Extractor-/blob/e61071db0cfe7b20b550fe3e2544a62495b69605/Screenshot%20(57).png))
+> 
+![image_alt](assets/output_files.png)
 
 ---
 
