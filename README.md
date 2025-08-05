@@ -31,8 +31,7 @@ Media transcoding is the process of converting multimedia files (audio/video) fr
 
 Sample Console UI
 ![ image_alt ](https://github.com/bhanumusham/Multi-Format-Video-Converter-Audio-Extractor-/blob/e61071db0cfe7b20b550fe3e2544a62495b69605/Screenshot%20(57).png))
-> 
-![image_alt](assets/output_files.png)
+![image_alt]([assets/output_files.png](https://github.com/bhanumusham/Multi-Format-Video-Converter-Audio-Extractor-/blob/d1073fde7af04c7591a876f13799d685d692434c/Screenshot%20(58).png))
 
 ---
 
